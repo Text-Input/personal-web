@@ -1,0 +1,4 @@
+baseURL = "https://dhinton.ca"
+languageCode = "en-us"
+title = "David Hinton"
+theme = "dimension"
